@@ -1,0 +1,1 @@
+This file was created in worktree-parallel-1 (feature/parallel-1) to demonstrate parallel coding with git worktree.
